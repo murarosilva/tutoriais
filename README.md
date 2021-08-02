@@ -1,3 +1,3 @@
 # tutoriais
 
-just an example of GitHubs' fork feature
+just an example of GitHub's fork feature
